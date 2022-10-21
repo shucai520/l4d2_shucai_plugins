@@ -1,0 +1,46 @@
+"title"
+{
+	"sv_cheats"
+	{
+		"info" "作弊模式"
+		"value"
+		{
+			"0"
+			{
+				"message" "关闭"
+				"exec" "sm_cvar sv_cheats 0"
+			}
+			"1"
+			{
+				"message" "开启"
+				"exec" "exec vote/godon.cfg"
+			}
+		}
+	}
+"mp_gamemode"
+    {
+        "info" "游戏模式"
+		"value"
+		{
+            "coop"
+			{
+				"message" "战役模式"
+				"exec" "sm_cvar mp_gamemode coop"
+			}
+            "realism"
+			{
+				"message" "写实模式"
+				"exec" "sm_cvar mp_gamemode realism"
+			}
+            "community1"
+			{
+				"message" "特感速递"
+				"exec" "sm_cvar mp_gamemode community1"
+			}
+            "mutation4"
+			{
+				"message" "绝境求生"
+				"exec" "sm_cvar mp_gamemode mutation4"
+			}
+        }
+    }

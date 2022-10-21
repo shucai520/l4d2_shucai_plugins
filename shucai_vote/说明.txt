@@ -1,0 +1,1 @@
+txt全部放在left4dead2\addons\sourcemod\configs

@@ -1,0 +1,7 @@
+"cfgname"
+{
+	"27015"
+	{
+		"name"		"shucai"
+	}
+}
