@@ -1,2 +1,4 @@
 txt全部放在left4dead2\addons\sourcemod\configs
 扩展:https://forums.alliedmods.net/showthread.php?t=162164
+1.0
+19:00 2022/10/22
