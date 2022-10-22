@@ -156,6 +156,8 @@ public void reloadCfg()
 		
 	BuildPath(Path_SM, sBuffer, sizeof(sBuffer), flag ? new_filepath : FILE_PATH);
 	BuildPath(Path_SM, sBufferMode, sizeof(sBufferMode), flag ? new_filepath_mode : FILE_PATH_MODE);
+	LogMessage("加载CFG: %s", sBuffer);
+	LogMessage("加载CFGmode: %s", sBufferMode);
 	if (!FileToKeyValues(g_hCfgsKV, sBuffer) || !FileToKeyValues(g_hTitleKV, sBufferMode))
 	{
 		SetFailState("无法加载cfgs.txt文件!");

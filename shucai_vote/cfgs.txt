@@ -6,17 +6,10 @@
 		{
 			"message" "投票踢出玩家"
 		}
-		"sm_reloadcfg"
+	}
+	"sm_reloadcfg"
 		{
 			"message" "重载CFG文件"
 			"admin" "1"
 		}
-	}
-	"模式选项"
-	{
-		"sm_cm"
-		{
-			"message" "模式设置"
-		}
-	}
 }
