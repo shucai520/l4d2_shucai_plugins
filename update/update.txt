@@ -14,10 +14,9 @@
 	"Files"
 	{
 		"Plugin"	"Path_SM/plugins/myplugin.smx"
-		"Plugin"	"Path_SM/translations/myplugin.phrases.txt"
-		"Plugin"	"Path_SM/translations/ru/myplugin.phrases.txt"
-		"Plugin"	"Path_Mod/models/characters/batman.mdl"
-		"Plugin"	"Path_Mod/materials/models/characters/batman.vmt"
+		//"Plugin"	"Path_SM/translations/ru/myplugin.phrases.txt"
+		//"Plugin"	"Path_Mod/models/characters/batman.mdl"
+		//"Plugin"	"Path_Mod/materials/models/characters/batman.vmt"
 		
 		"Source"	"Path_SM/scripting/myplugin.sp"
 	}
