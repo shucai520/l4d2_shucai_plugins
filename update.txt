@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0"
+		}
+		
+		"Notes"	"https://github.com/shucai520/l4d2_shucai_plugins"
+		"Notes"	"Test"
+	}
+	
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/anne_abm.sp"
+	}
+}
