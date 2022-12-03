@@ -18,6 +18,6 @@
 		//"Plugin"	"Path_Mod/models/characters/batman.mdl"
 		//"Plugin"	"Path_Mod/materials/models/characters/batman.vmt"
 		
-		"Source"	"Path_SM/scripting/myplugin.sp"
+		"Source"	"Path_SM/scripting/anne_abm.sp"
 	}
 }
